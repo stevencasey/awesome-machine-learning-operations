@@ -158,17 +158,17 @@ This repository contains a curated list of awesome open source libraries that wi
 * [matplotlib](https://github.com/matplotlib/matplotlib) ![](https://img.shields.io/github/stars/matplotlib/matplotlib.svg?style=social) - A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. 
 * [pygal](https://github.com/Kozea/pygal) ![](https://img.shields.io/github/stars/Kozea/pygal.svg?style=social) - pygal is a dynamic SVG charting library written in python
 * [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib) ![](https://img.shields.io/github/stars/andrea-cuttone/geoplotlib.svg?style=social) - geoplotlib is a python toolbox for visualizing geographical data and making maps
-* [Missigno](https://github.com/ResidentMario/missingno) ![](https://img.shields.io/github/stars/ResidentMario/missingno.svg?style=social) - missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset.
-* [XKCD-style plots](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/) - An XKCD theme for matblotlib visualisations
+* [Missingno](https://github.com/ResidentMario/missingno) ![](https://img.shields.io/github/stars/ResidentMario/missingno.svg?style=social) - missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset.
+* [XKCD-style plots](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/) - An XKCD theme for matplotlib visualisations
 
 
-## 9. Industrial strenght NLP
+## 9. Industrial strength NLP
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
 * [Flair](https://github.com/zalandoresearch/flair) ![](https://img.shields.io/github/stars/zalandoresearch/flair.svg?style=social) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
 * [Wav2Letter++](https://code.fb.com/ai-research/wav2letter/) - A speech to text system developed by Facebook's FAIR teams.
 
 ## 10. Data Pipeline ETL Frameworks
-* [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
+* [Apache Airflow](https://airflow.apache.org/) ![](https://img.shields.io/github/stars/apache/airflow.svg?style=social) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
 * [Luigi](https://github.com/spotify/luigi) ![](https://img.shields.io/github/stars/spotify/luigi.svg?style=social) - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc
 * [Genie](https://github.com/Netflix/genie) ![](https://img.shields.io/github/stars/Netflix/genie.svg?style=social) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
